@@ -1,2 +1,4 @@
 socket
 flet
+threading
+os
